@@ -1,2 +1,1 @@
-# programming-case-study-code
-PPS Python SEM 2 Case Study
+please proceed to the below two files
